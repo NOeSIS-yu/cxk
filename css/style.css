@@ -7,6 +7,10 @@ audio::-webkit-media-controls-enclosure {
     margin-left: auto
 }
 
+body {
+    background: url("https://api.ciyuandun.com/?like=pc-whiteHairs-wallhaven") no-repeat center center fixed; 
+}
+
 #main {
         width: 390px;
     margin: 0 auto
